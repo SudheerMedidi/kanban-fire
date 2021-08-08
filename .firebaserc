@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sudheertech-81fee": {
+      "hosting": {
+        "kanban-fire": [
+          "sudheertech-81fee"
+        ]
+      }
+    }
+  }
+}
